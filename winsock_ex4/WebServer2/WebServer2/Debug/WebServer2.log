@@ -1,0 +1,6 @@
+﻿  WebServer2.cpp
+C:\Users\hp\Desktop\数据通信\winsock_ex4\WebServer2\WebServer2\WebServer2.cpp(42): warning C4101: “ipstringbuffer”: 未引用的局部变量
+C:\Users\hp\Desktop\数据通信\winsock_ex4\WebServer2\WebServer2\WebServer2.cpp(51): warning C4101: “recvbuf”: 未引用的局部变量
+C:\Users\hp\Desktop\数据通信\winsock_ex4\WebServer2\WebServer2\WebServer2.cpp(50): warning C4101: “iSendResult”: 未引用的局部变量
+C:\Users\hp\Desktop\数据通信\winsock_ex4\WebServer2\WebServer2\WebServer2.cpp(223): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“void *”
+  WebServer2.vcxproj -> C:\Users\hp\Desktop\数据通信\winsock_ex4\WebServer2\Debug\WebServer2.exe

@@ -1,0 +1,4 @@
+﻿  EchoServer2.cpp
+C:\Users\hp\Desktop\EchoServer2\EchoServer2\EchoServer2.cpp(43): warning C4101: “recvbuf”: 未引用的局部变量
+C:\Users\hp\Desktop\EchoServer2\EchoServer2\EchoServer2.cpp(42): warning C4101: “iSendResult”: 未引用的局部变量
+  EchoServer2.vcxproj -> C:\Users\hp\Desktop\EchoServer2\Debug\EchoServer2.exe

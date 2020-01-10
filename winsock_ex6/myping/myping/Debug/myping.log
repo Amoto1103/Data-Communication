@@ -1,0 +1,4 @@
+﻿  myping.cpp
+C:\Users\hp\Desktop\数据通信\winsock_ex6\myping\myping\myping.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\hp\Desktop\数据通信\winsock_ex6\myping\myping\myping.cpp(99): warning C4018: “>”: 有符号/无符号不匹配
+  myping.vcxproj -> C:\Users\hp\Desktop\数据通信\winsock_ex6\myping\Debug\myping.exe
